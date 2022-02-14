@@ -52,7 +52,7 @@ class Song
         # end
         # artist_count
         @@artists.tally
-        binding.pry
+        # binding.pry
     end
 
 end
